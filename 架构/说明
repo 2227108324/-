@@ -1,1 +1,0 @@
-在分文件时，全局变量如果使用，需要声明 如 extern Config config;
